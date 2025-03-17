@@ -1,0 +1,12 @@
+{
+  "owner": {
+    "username": "jarvisdevlin",
+    "email": "devlin@linuxmail.org"
+  },
+  "record": {
+    "NS": [
+      "emily.ns.cloudflare.com",
+      "zahir.ns.cloudflare.com"
+    ]
+  }
+}
